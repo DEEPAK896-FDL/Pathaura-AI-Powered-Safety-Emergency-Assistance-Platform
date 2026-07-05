@@ -1,0 +1,21 @@
+{
+  "name": "pathaura-backend",
+  "version": "1.0.0",
+  "description": "Plain Node.js backend for Pathaura with MongoDB and REST APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "pathaura",
+    "nodejs",
+    "mongodb",
+    "rest-api"
+  ],
+  "author": "Pathaura Team",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
+}
